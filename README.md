@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mirsad 👋
 
-<!--
-**MirsadZagrljaca/MirsadZagrljaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Software Engineer** specializing in high-throughput backend services, enterprise distributed systems, and real-time streaming infrastructure.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** Java, Kotlin, Python, SQL, TypeScript, JavaScript
+- **Backend & Streaming:** Spring Boot, Apache Kafka, Apache Flink, Node.js, Express
+- **Databases:** PostgreSQL, Redis, MongoDB
+- **Cloud & DevOps:** AWS (EKS), Docker, Kubernetes, Terraform, ArgoCD, GitLab CI, Backstage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 About My Work
+While most of my recent production work involves enterprise stream processing, custom platform tooling, and event-driven architectures within private organizational repositories, you can explore my open-source repositories below to see my developer journey—from early full-stack projects to backend system designs.
+
+---
+
+### 📬 Connect with me:
+- **LinkedIn:** [linkedin.com/in/mirsadzagrljaca](https://www.linkedin.com/in/mirsadzagrljaca)
+- **Email:** mzagrljaca@gmail.com
