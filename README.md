@@ -2,7 +2,7 @@
 
 I am a **Software Engineer** specializing in high-throughput backend services, enterprise distributed systems, and real-time streaming infrastructure.
 
-### 🛠 Tech Stack
+### Tech Stack
 - **Languages:** Java, Kotlin, Python, SQL, TypeScript, JavaScript
 - **Backend & Streaming:** Spring Boot, Apache Kafka, Apache Flink, Node.js, Express
 - **Databases:** PostgreSQL, Redis, MongoDB
