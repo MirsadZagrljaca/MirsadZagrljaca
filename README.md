@@ -1,6 +1,6 @@
 ## Hi, I'm Mirsad
 
-I am a **Software Engineer** specializing in high-throughput backend services, enterprise distributed systems, and real-time streaming infrastructure.
+I am a Software Engineer with hands-on experience building high-throughput backend services, enterprise distributed systems, and real-time streaming infrastructure
 
 ### Tech Stack
 - **Languages:** Java, Kotlin, Python, SQL, TypeScript, JavaScript
@@ -11,7 +11,7 @@ I am a **Software Engineer** specializing in high-throughput backend services, e
 ---
 
 ### About My Work
-My primary focus is on enterprise-grade streaming platforms, event-driven architectures, and cloud-native platform engineering. While most of my production codebase resides in private organizational repositories, my public repositories reflect my ongoing explorations across backend system design, automation, and full-stack development.
+I’ve spent recent years building enterprise-grade streaming platforms, event-driven architectures, and cloud-native platform infrastructure. While my primary production footprint remains in private enterprise repositories, I am constantly exploring new technologies, refining my craftsmanship, and sharing hands-on projects around backend system design, automation, and full-stack development.
 
 ---
 
